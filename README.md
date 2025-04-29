@@ -1,4 +1,4 @@
-# 🚀 Introducing: [Chrome Policy Cleaner](https://hackinos.com/files/file/858-hackinos-remove-chrome-managed/)
+# 🚀 Introducing: [Remove Chrome Managed](https://hackinos.com/files/file/858-hackinos-remove-chrome-managed/)
 
 ### 🧹 Lightweight • Fast • One-click fix
 
